@@ -4,6 +4,7 @@ These are tutorials made either for the CS 4590 course or for the Neural Modelin
 
 B3:
 
+Add question about changing input current in first simulation and seeing how input resistance is a constant.
 Find neuron default values for nodes of ranvier and myelinated sheaths.
 Add question about input resistance for different current.
 Should node of ranvier values be same as axon?
