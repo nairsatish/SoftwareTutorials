@@ -1,6 +1,9 @@
 # SoftwareTutorials
 These are tutorials made either for the CS 4590 course or for the Neural Modeling manual later on.
 
+To do:
+Talk about what labs were done in what order in the CS 4590 course in Fall 2023 here:
+Talk about what is on B1 - B3 and how they work.
 
 B3:
 
@@ -34,5 +37,7 @@ B1:
 9. Email Dr. Nair about the document of default values for everything.
 
 10. Add the two videos from the 4540 course in the spring about the structure of the neuron since and order the videos correctly because B1 is at the very start of the course.
+
+
 
 
