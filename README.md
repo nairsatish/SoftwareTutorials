@@ -12,6 +12,8 @@ B3:
 
   4.Should node of ranvier values be same as axon?
 
+  5. Add check for if in environment or if in google colab.
+
 
 
 B2:
@@ -21,5 +23,16 @@ https://github.com/davidfague/Computational-Neuroscience-tutorials/blob/main/B2_
   2.Graph Voltage over distance every 50 times steps to show how it is not instant and ask why(some has to go to charge the capacitor before it starts leaking). 
 
   3. Add questions about how the length constant changes in response to different things(like membrane resistance, axial resistivity, and diameter)
+
+  4. Add Check for if in environment or if in google colab.
+
+B1:
+1. Whenever channels are inserted, add an x or a circle per type of channel throughout the axon/soma.
+   
+7. Only make one section(the soma). mention that the other sections(the dendrite and axon) can be modeled as well, but we will be ommitting it for the sake of ease.
+  
+9. Email Dr. Nair about the document of default values for everything.
+
+10. Add the two videos from the 4540 course in the spring about the structure of the neuron since and order the videos correctly because B1 is at the very start of the course.
 
 
