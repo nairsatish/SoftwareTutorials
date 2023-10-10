@@ -29,7 +29,7 @@ https://github.com/davidfague/Computational-Neuroscience-tutorials/blob/main/B2_
   4. Add Check for if in environment or if in google colab.
 
 B1:
-1. Whenever channels are inserted, add an x or a circle per type of channel throughout the axon/soma.
+1. Whenever channels are inserted, add an x or a circle per type of channel throughout the soma.
   
 9. Email Dr. Nair about the document of default values for everything.
 
