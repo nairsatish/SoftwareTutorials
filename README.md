@@ -30,8 +30,6 @@ https://github.com/davidfague/Computational-Neuroscience-tutorials/blob/main/B2_
 
 B1:
 1. Whenever channels are inserted, add an x or a circle per type of channel throughout the axon/soma.
-   
-7. Only make one section(the soma). mention that the other sections(the dendrite and axon) can be modeled as well, but we will be ommitting it for the sake of ease.
   
 9. Email Dr. Nair about the document of default values for everything.
 
