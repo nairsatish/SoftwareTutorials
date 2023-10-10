@@ -15,7 +15,6 @@ B3:
 
   4.Should node of ranvier values be same as axon?
 
-  5. Add check for if in environment or if in google colab.
 
 
 
