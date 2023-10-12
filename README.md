@@ -29,12 +29,11 @@ https://github.com/davidfague/Computational-Neuroscience-tutorials/blob/main/B2_
   4. Add Check for if in environment or if in google colab.
 
 B1:
-1. Whenever channels are inserted, add an x or a circle per type of channel throughout the soma.
-  
-9. Email Dr. Nair about the document of default values for everything.
+1. Add graph at the end going over the Ileak, INa, and IK plots
+   
+3. Change the color of the text on the widget to be the same as the color of the shapes on the morphology.
 
-10. Add the two videos from the 4540 course in the spring about the structure of the neuron since and order the videos correctly because B1 is at the very start of the course.
-
-
+5. Choose colors of current to be the same as shapes on morphology.
+6. Change original one to show action potential.
 
 
