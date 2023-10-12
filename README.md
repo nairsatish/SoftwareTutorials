@@ -30,8 +30,11 @@ https://github.com/davidfague/Computational-Neuroscience-tutorials/blob/main/B2_
 
 B1:
 1. Add graph at the end going over the Ileak, INa, and IK plots
-   
-3. Change the color of the text on the widget to be the same as the color of the shapes on the morphology.
+
+2. Add + on the outside of the cell, and - on the inside of the cell.
+3. Add bilayer(possibly)
+4. Add channels as tubes in the cell with the same color. 
+2. Change the color of the text on the widget to be the same as the color of the shapes on the morphology.
 
 5. Choose colors of current to be the same as shapes on morphology.
 6. Change original one to show action potential.
