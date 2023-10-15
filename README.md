@@ -10,30 +10,15 @@ https://github.com/davidfague/Computational-Neuroscience-tutorials/blob/main/B2_
   3. Add questions about how the length constant changes in response to different things(like membrane resistance, axial resistivity, and diameter)
 
 
-To do:
-Talk about what labs were done in what order in the CS 4590 course in Fall 2023 here:
-Talk about what is on B1 - B3 and how they work.
-
 
 B1:
-  1.
-
-  2.
-
-  3.
+     Goes over the components of a neuron(in particular the soma) and asks the students to make the biological model and electrical circuit. It then goes over how the soma is simulated in NEURON and the default values for properties of the section created. It then goes over inserting the passive and active channels and how to voltage/current clamp for a simulation. Lastly, an interactive simulation is given to show exactly how the soma looks with the bilayer, the fact that it is polarized, and that channels are actually inserted into the soma.
 
 B2:
-  1.
+     Yes.
   
-  2.
-  
-  3.
 B3:
-  1. Goes over what input resistance, the fact that it is a constant, and how to calculate it.
-     
-  2. Goes over what the FI curve is and plots it for the given cell from the currents -1nA to 2nA.
-     
-  3. Goes over what Nodes of Ranvier and Myelin sheaths are and how they contribute to AP propagation down an axon. It also shows how certain factors affect the propagation speed.
+     Goes over what input resistance, the fact that it is a constant, and how to calculate it and asks some questions. It then goes over what the FI curve is and plots it for the given cell from the currents -1nA to 2nA. Lastly, it goes over what Nodes of Ranvier and Myelin sheaths are and how they contribute to AP propagation down an axon by adding them on to the axon. It also asks how certain factors affect the propagation speed.
 
 
 
