@@ -8,9 +8,13 @@ https://github.com/davidfague/Computational-Neuroscience-tutorials/blob/main/B2_
   2.Graph Voltage over distance every 50 times steps to show how it is not instant and ask why(some has to go to charge the capacitor before it starts leaking). 
 
   3. Add questions about how the length constant changes in response to different things(like membrane resistance, axial resistivity, and diameter)
+
+
 To do:
 Talk about what labs were done in what order in the CS 4590 course in Fall 2023 here:
 Talk about what is on B1 - B3 and how they work.
+
+
 B1:
   1.
 
