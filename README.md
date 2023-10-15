@@ -28,8 +28,7 @@ https://github.com/davidfague/Computational-Neuroscience-tutorials/blob/main/B2_
 
   4. Add Check for if in environment or if in google colab.
 
-B1:
-6. Change original one to show action potential.
+
    
 
 
