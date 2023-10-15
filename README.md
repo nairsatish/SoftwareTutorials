@@ -9,14 +9,6 @@ B3:
 
   1.Add question about changing input current in first simulation and seeing how input resistance is a constant.
 
-  2.Get rid of piecewise function question for FI curve. Just have them think about it.
-
-  3.Find neuron default values for nodes of ranvier and myelinated sheaths.
-
-  4.Should node of ranvier values be same as axon?
-
-
-
 
 B2:
   1. add the graph ofindividual segments' voltage in again, and limit the x-axis and title it Transience in Voltage(takes some time) Take that from:
