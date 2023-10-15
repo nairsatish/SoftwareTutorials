@@ -13,12 +13,16 @@ Talk about what labs were done in what order in the CS 4590 course in Fall 2023 
 Talk about what is on B1 - B3 and how they work.
 B1:
   1.
+
   2.
+
   3.
 
 B2:
   1.
+  
   2.
+  
   3.
 B3:
   1. Goes over what input resistance, the fact that it is a constant, and how to calculate it.
