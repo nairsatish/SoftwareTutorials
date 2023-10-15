@@ -29,14 +29,7 @@ https://github.com/davidfague/Computational-Neuroscience-tutorials/blob/main/B2_
   4. Add Check for if in environment or if in google colab.
 
 B1:
-
-2. Add + on the outside of the cell, and - on the inside of the cell.
-3. Add bilayer(possibly)
-4. Add channels as tubes in the cell with the same color. 
-
-
-5. Choose colors of current to be the same as shapes on morphology.
 6. Change original one to show action potential.
    
-2. Change the color of the text on the widget to be the same as the color of the shapes on the morphology(not possible with Radio Buttons)
+
 
