@@ -29,7 +29,6 @@ https://github.com/davidfague/Computational-Neuroscience-tutorials/blob/main/B2_
   4. Add Check for if in environment or if in google colab.
 
 B1:
-1. Add graph at the end going over the Ileak, INa, and IK plots
 
 2. Add + on the outside of the cell, and - on the inside of the cell.
 3. Add bilayer(possibly)
