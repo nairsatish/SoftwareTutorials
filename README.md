@@ -7,10 +7,6 @@ https://github.com/davidfague/Computational-Neuroscience-tutorials/blob/main/B2_
  
   2.Graph Voltage over distance every 50 times steps to show how it is not instant and ask why(some has to go to charge the capacitor before it starts leaking). 
 
-  3. Add questions about how the length constant changes in response to different things(like membrane resistance, axial resistivity, and diameter)
-
-
-
 B1:
      Goes over the components of a neuron(in particular the soma) and asks the students to make the biological model and electrical circuit. It then goes over how the soma is simulated in NEURON and the default values for properties of the section created. It then goes over inserting the passive and active channels and how to voltage/current clamp for a simulation. Lastly, an interactive simulation is given to show exactly how the soma looks with the bilayer, the fact that it is polarized, and that channels are actually inserted into the soma.
 
